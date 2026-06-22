@@ -2,15 +2,15 @@
 caes = ["div_victor"]
 casery = "div_victor"
 ##ايدي مطور السورس
-caserid = 6906453300
+caserid = 8588392906
 ##قناه السورس
 source = "https://t.me/CORANBM" 
 ch = "CORANBM" 
 ##جروب السورس
-group = "https://t.me/YA_HYA3" 
+group = "https://t.me/ueheurhd"
 ##لوجو السورس
 photosource = "https://t.me/mkptkm/14"
 ##توكن الصانع
-bot_token="7736846760:AAGeDeBt0NBqqArzuOipmrtnpaRxyz8dDjE"
+bot_token="8868801260:AAGQ4poVHo-xUkYM5mBgZqmOC1O6DApDrHw"
 ##جلسه الاشتراك
-bot_token2="BAFcX10ALH7AEeOGHzSqNqO9kPTu44jp2OadEN6I6b5MG7yA2PLqg3zy8eOjG3jxp9fbm__GWOAhGs9ga16yFc3Fjo7isbAH3cZwO7GUOaVMZ1LvEVN8ay7yLL7sRo9O70KuSYxslCcjPjIDvnwbyNRNFR9paYfLabdIE5oOAP1Ue1Fi9dtSiEalnpvRFHLyri-P-Q0tdi_wZ5V9JBeiGEsvFi9NJATh61Xl1ST3TG6lmRBSJhTGwLnUfDgxZ98PXbqK3cD3oLl3lhQCUdbC90Pf_gGvdtIWTobUpaAaxDyu7UmPdTscD-Y18wN0X-TkxrTKXJDLAlBpIQx5tXl0q-T82i5fbQAAAAGwxrx3AA"
+bot_token2="AQDuvbcAhqgwbFA-G3Gic4coETKZk8FD9AxuDqEs3CsamWHhubZmyos7xd31slWAGIEcu4q8iTLtSuQFfF1y75o9H7I6kGIN57S-4QEW2t_7ZQskVTf094EM6D6lXPcKERuAZLscQIwXvcBdCH7fN5_X3cMr1wf4vmeOEVs6sBbb5Y9gG9zwRI7UmxNRcKhSOGtbdMqkE-GUpBVXDWo8DOW1TI-lwljSQAcM4lFDMsBk_zRy9YMgP-QZ8BKc2eXH3m3Ps_wWmD1jA7vAdzdYdK-XGdUYAi7eHS6KsEpGSlX8V6CSRW4A5KdmqZvOu2WYeH8ZL3pB0-ezkxW2Fb0HJziBvYse9wAAAAIIAr4sAA"
