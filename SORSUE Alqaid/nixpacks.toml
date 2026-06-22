@@ -9,4 +9,4 @@ cmds = [
 ]
 
 [start]
-cmd = "cd 'SORSUE Alqaid' && python3.11 main.py"
+cmd = "python3.11 'SORSUE Alqaid/main.py'"
